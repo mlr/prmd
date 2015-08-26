@@ -116,6 +116,9 @@
                         },
                         {
                             "required": ["patternProperties"]
+                        },
+                        {
+                            "required": ["$ref"]
                         }
                     ],
                     "required": ["type"]
